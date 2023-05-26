@@ -6,28 +6,28 @@ In this project, we will work with the user-article interaction dataset from the
 
 # Libraries used:
 .
--pandas as pd
--numpy as np
--matplotlib.pyplot as plt
--pickle
+- pandas as pd
+- numpy as np
+- matplotlib.pyplot as plt
+- pickle
 
-.
+
 
 # Project Motivation:
 .
 The objective of the project is to build a recommendation system that suggests new articles to users based on their previous interactions with articles on the platform.
 
-.
+
 
 # File Description:
 .
--Recommendations_with_IBM.ipynb:contains the main code for the project
+- Recommendations_with_IBM.ipynb:contains the main code for the project
 
--project_tests.py:includes testing code to ensure the functions in the Recommendations_with_IBM.ipynb notebook are implemented correctly 
+- project_tests.py:includes testing code to ensure the functions in the Recommendations_with_IBM.ipynb notebook are implemented correctly 
 
 - Top_5.p , Top_10.p , Top_20.p
 
--User_item_matrix.p
+- User_item_matrix.p
 
 # Summary:
 .
